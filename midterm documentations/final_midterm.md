@@ -18,6 +18,8 @@ I mention efficiency a lot because for one of my classes (collisions.js) I origi
 
 There was also another code I tried to add but it just did not work. I wanted to add starts similar to the look of the mario kart ones. The code is commented out since I hope to be able to figure it out after grades come out i didn’t delete it like I deleted the ones above for that reason. The main issue i had was the shape of the ‘star’ and also that by adding it the range between the star and balloon would also count as a collision which made the game far too easy.
 
+![image](https://user-images.githubusercontent.com/98391104/157741466-5c08ea16-bb7a-4abb-9cc6-7d585527d540.png)
+
 So, it still leads back to the question of what my game turned out to be. After I coded the game I felt like I wanted to add a trippy GIF as a background to make it look more interesting and more aligned with my idea. My idea became to create a vortex like game which has warp sound effects to make it feel and look more alien-y. I love vortex like games and I chose to tint the background and resize the GIF to make it look more visually appealing to me. I had the bullets, shooter and reticle be random. Random - as you’ve gathered from all my previous assignments - is my favorite feature and thing I learned just because it allows my piece to look very artsy and cool. It also grabs the attention since it’s constantly changing which is what I wanted for the shooter and reticle so it can stand out on the moving trippy background.
 
 ![image](https://user-images.githubusercontent.com/98391104/157740160-081244bb-7148-405d-992a-bad3e421f2b0.png)
