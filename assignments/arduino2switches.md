@@ -18,7 +18,11 @@ I found myself confused about which resistor to use, so I need to look into it.
 Creating this assignment was incredibly fun and, although time-consuming, worth it since I can see the product of my time and effort. I used two videos to help me along the way, one for either switch. Even with the help of these videos, it took e a long while to apply what it said in both of them. It was harder than I expected, but I look forward to doing it again. 
 
 ![IMG_1794](https://user-images.githubusercontent.com/98391104/161433787-1ddd8c41-d242-4ef3-8a18-d485607eb1eb.jpg)
+
+
 The picture above is the wiring the pushbutton and the actual code can be found on lines 10-18 & 50-62. 
 
 ![IMG_1795](https://user-images.githubusercontent.com/98391104/161433808-54af1ccb-3f14-4083-9c59-91ed7daede63.jpg)
+
+
 The picture above is the wiring the potentiometer and the actual code can be found on lines 2-8, 20-48 & 64-71. 
