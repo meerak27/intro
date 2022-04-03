@@ -2,11 +2,10 @@
 Week 9 - Digital & Analog Switch (arduino)
 ---
 
-[Video demo](https://youtu.be/Z4Zq916oZ88)
+[Video Demo](https://youtu.be/Z4Zq916oZ88)
 
 
 [Code](https://www.codepile.net/pile/yO7kDxOz)
-
 
 Making this assignment was so frustrating but equally as satisfying. I found that with Arduino, my coding skills feel sharper, and I feel more confident since I can immediately see whether what I am doing is working or not. I decided to go off the suggestions since I had a hard time being creative and finding another way. If you turn the potentiometer and the value is above 500, the red LED will start blinking my name in morse code. If the value is anywhere above 500, if you click the button, it will increase the brightness by 20. It's capped out at 255 before it will turn off again, which gives you a lot of variety and enough clicks to see the difference. The brightness change is done with the blue led.
 
@@ -18,8 +17,8 @@ I found myself confused about which resistor to use, so I need to look into it.
 
 Creating this assignment was incredibly fun and, although time-consuming, worth it since I can see the product of my time and effort. I used two videos to help me along the way, one for either switch. Even with the help of these videos, it took e a long while to apply what it said in both of them. It was harder than I expected, but I look forward to doing it again. 
 
-![IMG_1794](https://user-images.githubusercontent.com/98391104/161432810-ff5e5155-bede-4439-9341-358deece3b0e.jpg)
+![IMG_1794](https://user-images.githubusercontent.com/98391104/161433727-55050993-6f03-488d-ae14-b0e8f76b384a.jpg)
 The picture above is the wiring the pushbutton and the actual code can be found on lines 10-18 & 50-62. 
 
-![IMG_1795](https://user-images.githubusercontent.com/98391104/161432830-1cf0154d-8477-4e41-8da3-e90429002e9c.jpg)
+![IMG_1795](https://user-images.githubusercontent.com/98391104/161433750-5959c280-f35a-4b0c-b4ff-88f287ca13dc.jpg)
 The picture above is the wiring the potentiometer and the actual code can be found on lines 2-8, 20-48 & 64-71. 
