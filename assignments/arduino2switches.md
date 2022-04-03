@@ -2,6 +2,12 @@
 Week 9 - Digital & Analog Switch (arduino)
 ---
 
+[Video demo](https://youtu.be/Z4Zq916oZ88)
+
+
+[Code](https://www.codepile.net/pile/yO7kDxOz)
+
+
 Making this assignment was so frustrating but equally as satisfying. I found that with Arduino, my coding skills feel sharper, and I feel more confident since I can immediately see whether what I am doing is working or not. I decided to go off the suggestions since I had a hard time being creative and finding another way. If you turn the potentiometer and the value is above 500, the red LED will start blinking my name in morse code. If the value is anywhere above 500, if you click the button, it will increase the brightness by 20. It's capped out at 255 before it will turn off again, which gives you a lot of variety and enough clicks to see the difference. The brightness change is done with the blue led.
 
 ![PicMOntage](https://user-images.githubusercontent.com/98391104/161433480-7b37fdda-6360-4112-abc7-6bce2aa799ab.jpeg)
@@ -17,7 +23,3 @@ The picture above is the wiring the pushbutton and the actual code can be found 
 
 ![IMG_1795](https://user-images.githubusercontent.com/98391104/161432830-1cf0154d-8477-4e41-8da3-e90429002e9c.jpg)
 The picture above is the wiring the potentiometer and the actual code can be found on lines 2-8, 20-48 & 64-71. 
-
-[This youtube video is me demonstrating the assignemnt.](https://youtu.be/Z4Zq916oZ88)
-[This is the code to my assignemnt.](https://www.codepile.net/pile/yO7kDxOz)
-
