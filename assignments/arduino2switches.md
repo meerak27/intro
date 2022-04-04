@@ -4,7 +4,6 @@ Week 9 - Digital & Analog Switch (arduino)
 
 [Video Demo](https://youtu.be/Z4Zq916oZ88)
 
-
 [Code](https://www.codepile.net/pile/yO7kDxOz)
 
 Making this assignment was so frustrating but equally as satisfying. I found that with Arduino, my coding skills feel sharper, and I feel more confident since I can immediately see whether what I am doing is working or not. I decided to go off the suggestions since I had a hard time being creative and finding another way. If you turn the potentiometer and the value is above 500, the red LED will start blinking my name in morse code. If the value is anywhere above 500, if you click the button, it will increase the brightness by 20. It's capped out at 255 before it will turn off again, which gives you a lot of variety and enough clicks to see the difference. The brightness change is done with the blue led.
@@ -29,4 +28,5 @@ The picture above is the wiring the potentiometer and the actual code can be fou
 
 References:
 https://youtu.be/6mLytyKEU5Q
+
 https://youtu.be/7brma27K2u4
