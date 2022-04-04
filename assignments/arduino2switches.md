@@ -27,6 +27,7 @@ The picture above is the wiring the pushbutton and the actual code can be found 
 The picture above is the wiring the potentiometer and the actual code can be found on lines 2-8, 20-48 & 64-71. 
 
 References:
+
 https://youtu.be/6mLytyKEU5Q
 
 https://youtu.be/7brma27K2u4
