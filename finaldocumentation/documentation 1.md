@@ -1,9 +1,13 @@
 Made a [google drive](https://drive.google.com/drive/folders/1H73yyXXVBAiyM1X2QswY5epgvKJn_drV?usp=sharing) with all the pictures and videos as the laptop wasnt letting me upload anythign to github.
 
+https://github.com/FatemaAlhameli/Intro-to-IM-/tree/main/Final%20Project 
+
 **Description of the project:**
+
 Our project is a graffiti wall. To interact with the digital part of the project there are 6 push buttons, 1 joystick & 1 force sensor. The user can use the force sensor to reset their drawing,the push buttons to change color, and the joystick to move and paint. They are enclosed in a box and the force sensor is on the ground so you can step and erase. Using this requires the use of both hands and your feet and this was something we wanted to focus on. We knew we somehow wanted our body to be interacting with the project in more ways than one and we couldn't get it right. But as we were working on the project we realized this is the perfect way to do this.
 
 **Challenges:**
+
 One large challenge was the enclosure. We had a hard time making the box and a even harder time putting everything in to where its user friendly. Making the box took us about a half day but we ended up doing it and we were happy we put the time in to do so. With that done we thought we had most of the grunt work out of the way and the rest of the enclosure would be easy breezy. We then realized that we would have to put the joystick and the buttons in and in a way that the user can press down with some force and not break it apart. We first thought tape was the way to do this and after multiple tries trying different ways of aligning them we realized that it was not going to work for the joystick and it would only - sort of - work for the buttons.
 Another problem we faced close to the start of our project was that the joystick would just create a horizontal line to the side and wouldn't move.  We fixed this by changing the numbers and even sometimes by just quitting arduino na dp5 and powering them up again.
 
